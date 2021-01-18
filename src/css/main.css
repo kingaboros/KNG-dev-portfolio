@@ -208,6 +208,13 @@ Navbar
 ===============
 */
 
+.logo {
+  width: 150px;
+  position: relative;
+  top: 60px;
+  left: -10px;
+}
+
 .navbar {
   position: absolute;
   top: 0;
