@@ -32,6 +32,7 @@ module.exports = {
         queryLimit: 1000,
         //   contentTypes : [`jobs`, `projects`, `blogs`, `abouts`],
         contentTypes: [`jobs`, `projects`],
+        singleTypes: [`about`],
       },
     },
   ],
