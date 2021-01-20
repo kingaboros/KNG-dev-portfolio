@@ -6,9 +6,9 @@
 
 module.exports = {
   siteMetadata: {
-    title: "KB Portfolio",
-    description: "This is My Portfolio",
-    author: "Kinga Boros",
+    title: "WebDev Portfolio",
+    description: "This is My WebDev Portfolio",
+    author: "Kinga",
     twitterUsername: "@KingasCorner",
     image: "/twitter-img.png",
     siteUrl: "https://kng-dev-portfolio.netlify.app",
